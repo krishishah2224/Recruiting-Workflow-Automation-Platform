@@ -1,0 +1,14 @@
+{
+  "name": "recruiting-outreach-automation",
+  "version": "1.0.0",
+  "description": "Privacy-first workflow for ranking networking contacts and generating personalized outreach drafts.",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/index.js examples/contacts.json",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
