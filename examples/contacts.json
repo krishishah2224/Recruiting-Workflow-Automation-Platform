@@ -1,0 +1,33 @@
+{
+  "target": {
+    "company": "Northstar Consulting",
+    "role": "Entry Level Strategy Consultant",
+    "division": "Strategy",
+    "alumniSchool": "Michigan State University",
+    "interest": "using data and structured problem solving to improve business decisions"
+  },
+  "sender": {
+    "name": "Krishi Shah"
+  },
+  "limit": 10,
+  "contacts": [
+    {
+      "name": "Jordan Lee",
+      "title": "Strategy Consultant",
+      "division": "Strategy",
+      "education": ["Michigan State University"]
+    },
+    {
+      "name": "Taylor Morgan",
+      "title": "Director of Strategy",
+      "division": "Strategy",
+      "education": ["Lakeside University"]
+    },
+    {
+      "name": "Casey Patel",
+      "title": "Operations Analyst",
+      "division": "Operations",
+      "education": ["Michigan State University"]
+    }
+  ]
+}
